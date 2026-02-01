@@ -1,0 +1,9 @@
+
+## PR #10 (2026-02-01)
+
+### Added
+- Added a function `find_largest_number_builtin` to find the largest number in a list using the built-in max() function.
+
+### Changed
+- Removed a semicolon at the end of the `subtract` function and added proper newline handling.
+
