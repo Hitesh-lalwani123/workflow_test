@@ -4,3 +4,9 @@
 
 - Added a function `find_largest_number_builtin` to find the largest number in a list using the built-in max() function.
 - Removed a semicolon at the end of the `subtract` function and added proper newline handling.
+
+### binaryToDecimal
+Converts a binary number represented as a decimal to its decimal equivalent
+
+- **Input**: A binary number represented as a decimal (e.g., 1010 is represented as 1010)
+- **Output**: The decimal equivalent of the input binary number
