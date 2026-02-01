@@ -1,5 +1,11 @@
 # Release Notes
 
+## 1.0.0 (2026-02-01)
+
+### Added
+- Added newfunc1 for custom space replacement
+
+
 ## Unreleased (2026-02-01)
 
 ### Added
