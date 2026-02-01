@@ -7,3 +7,9 @@
 ### Changed
 - Removed a semicolon at the end of the `subtract` function and added proper newline handling.
 
+
+## PR #11 (2026-02-01)
+
+### Added
+- Binary to Decimal conversion function
+
