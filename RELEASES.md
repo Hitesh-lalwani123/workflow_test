@@ -1,5 +1,13 @@
 # Release Notes
 
+## 1.0.2 (2026-02-01)
+
+### Added
+- Added binary tree data structure
+- Added in-order traversal functionality
+- Added pre-order traversal functionality
+
+
 ## 1.0.0 (2026-02-01)
 
 ### Added
