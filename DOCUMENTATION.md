@@ -15,6 +15,18 @@ Represents a node in a linked list.
 
 - **Input**: data: The data to be stored in the node.
 - **Output**: A new Node object.
+
+### traverseAndPrint
+Traverses a linked list and prints its elements.
+
+- **Input**: head: The head node of the linked list.
+- **Output**: None, prints the linked list elements.
+
+### Node
+Represents a node in a linked list.
+
+- **Input**: data: The data to be stored in the node.
+- **Output**: A new Node object.
 ### inorder_traversal
 Performs in-order traversal of a binary tree and returns a list of node values.
 
