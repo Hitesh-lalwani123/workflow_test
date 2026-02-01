@@ -1,5 +1,9 @@
 # Release Notes
 
+## 1.0.3 (2026-02-01)
+
+### Added
+- Added linked list implementation with Node class and traverseAndPrint function
 ## 1.0.2 (2026-02-01)
 
 ### Added
