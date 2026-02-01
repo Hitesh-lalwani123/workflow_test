@@ -1,5 +1,11 @@
 # Release Notes
 
+## 1.0.4 (2026-02-01)
+
+### Added
+- Added sum_of_arr function to calculate the sum of all numbers in an integer array
+
+
 ## 1.0.3 (2026-02-01)
 
 ### Added

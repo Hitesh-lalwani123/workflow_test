@@ -4,17 +4,11 @@
 
 - No significant modifications to existing features, only added a new function
 
-### traverseAndPrint
-Traverses a linked list and prints its elements.
+### sum_of_arr
+This function finds the sum of all numbers in an integer array
 
-- **Input**: head: The head node of the linked list.
-- **Output**: None, prints the linked list elements.
-
-### Node
-Represents a node in a linked list.
-
-- **Input**: data: The data to be stored in the node.
-- **Output**: A new Node object.
+- **Input**: arr (integer array)
+- **Output**: The sum of all numbers in the array
 
 ### traverseAndPrint
 Traverses a linked list and prints its elements.
