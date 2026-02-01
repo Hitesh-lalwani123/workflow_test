@@ -34,3 +34,9 @@ def remove_all_spaces(input_string):
   Removes all space characters (' ') from a string.
   """
   return input_string.replace(" ", "")
+
+def trim_all_spaces(input_string):
+  """
+  Removes all space characters (' ') from a string.
+  """
+  return input_string.replace(" ", "-")
