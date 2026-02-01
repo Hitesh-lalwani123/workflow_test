@@ -28,3 +28,9 @@ def binaryToDecimal(b):
         b //= 10
         p += 1
     print(d)
+
+def remove_all_spaces(input_string):
+  """
+  Removes all space characters (' ') from a string.
+  """
+  return input_string.replace(" ", "")
